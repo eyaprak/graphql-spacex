@@ -2,7 +2,7 @@
 
 ## General info
 This project has made with `React.js`, `Node.js`, `Express.js`, `GraphQL` technologies.
-GraphQL server is running on `localhost:5000/graphql`.
+GraphQL server is running on `http://localhost:5000/graphql`.
 
 ## Setup
 To run this project, install it locally using npm:
