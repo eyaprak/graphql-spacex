@@ -7,12 +7,12 @@ GraphQL server is running on `http://localhost:5000/graphql`.
 ## Setup
 To run this project, install it locally using npm:
 ```
-$ cd ../graphql-spacex
-$ cd ../server
+$ cd ./graphql-spacex
+$ cd ./server
 $ npm i
-$ cd ../client
+$ cd ./client
 $ npm i
-$ cd ../server
+$ cd ./server
 $ npm run dev
 ```
 
